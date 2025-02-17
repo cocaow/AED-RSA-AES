@@ -1,2 +1,2 @@
-# AED-RSA-AES
-Trabalho de algoritmo e estrutura de dados sobre RSA e AES
+# Trabalho de AED3 - algoritmo e estrutura de dados sobre RSA e AES
+
